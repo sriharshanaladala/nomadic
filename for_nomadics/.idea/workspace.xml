@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e147900-e7af-424e-89d2-085cba5a4d30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/feeds/models.py" beforeDir="false" />
-    </list>
+    <list default="true" id="4e147900-e7af-424e-89d2-085cba5a4d30" name="Changes" comment="Revert &quot;project on django has started date:23/11/2022&quot;&#10;&#10;This reverts commit b3d6fdd24f833a6157873042e0106fcbb817a26d." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669223589753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Revert &quot;project on django has started date:23/11/2022&quot;&#10;&#10;This reverts commit b3d6fdd24f833a6157873042e0106fcbb817a26d.">
+      <created>1669253709494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669253709494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;project on django has started date:23/11/2022&quot;&#10;&#10;This reverts commit b3d6fdd24f833a6157873042e0106fcbb817a26d.">
+      <created>1669253752000</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669253752000</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +135,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="project on django has started date:23/11/2022&#10;and later that created an app named feeds" />
     <MESSAGE value="z" />
-    <option name="LAST_COMMIT_MESSAGE" value="z" />
+    <MESSAGE value="Revert &quot;project on django has started date:23/11/2022&quot;&#10;&#10;This reverts commit b3d6fdd24f833a6157873042e0106fcbb817a26d." />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;project on django has started date:23/11/2022&quot;&#10;&#10;This reverts commit b3d6fdd24f833a6157873042e0106fcbb817a26d." />
   </component>
 </project>
